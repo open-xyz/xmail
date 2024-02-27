@@ -2,13 +2,14 @@ import mongoose from "mongoose";
 
 const connectDB = async () => {
   try {
-    await mongoose.connect("mongodb://localhost/xmail", {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-    });
+    await mongoose.connect("your_mongodb_connection_string");
     console.log("MongoDB Connected...");
   } catch (error) {
-    console.error("MongoDB connection failed:", error.message);
+    if (error instanceof Error) {
+      console.error("MongoDB connection failed:", error.message);
+    } else {
+      console.error("MongoDB connection failed:", error);
+    }
   }
 };
 
