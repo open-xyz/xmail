@@ -1,12 +1,11 @@
-https://app.eraser.io/workspace/nSEOj11Tl3psoU3AMwbH
-
-https://app.eraser.io/workspace/nSEOj11Tl3psoU3AMwbH
 
 # Xmail
 
 ## Overview
 
 Xmail is a secure, developer-friendly email client, focused on providing a seamless and private communication experience. Our project, built with Node.js, Express.js, MongoDB/PostgreSQL for the backend, and Next.js for the frontend, is dedicated to ensuring user privacy and data security. Xmail is an open-source project, licensed under the GNU General Public License version 3 (GPLv3), promoting community collaboration and software freedom.
+
+overview : https://app.eraser.io/workspace/nSEOj11Tl3psoU3AMwbH
 
 ## Features
 
