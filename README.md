@@ -4,6 +4,9 @@ A fast, secure email client built specifically for developers with AI assistance
 
 <img width="1636" height="714" alt="image" src="https://github.com/user-attachments/assets/4d1dade7-9a69-4f94-a59e-9e84c8de3245" />
 
+### Demo 
+https://sensational-capybara-249aa3.netlify.app/
+
 
 ![Version](https://img.shields.io/badge/version-2.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
