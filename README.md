@@ -2,7 +2,7 @@
 
 A fast, secure email client built specifically for developers with AI assistance, multiple themes, and seamless integration with development workflows.
 
-![Uploading image.png…]()
+<img width="1636" height="714" alt="image" src="https://github.com/user-attachments/assets/4d1dade7-9a69-4f94-a59e-9e84c8de3245" />
 
 
 ![Version](https://img.shields.io/badge/version-2.0-orange)
